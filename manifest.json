@@ -1,0 +1,14 @@
+{
+	"name":"百度直达",
+	"version":"1.0",
+	"description":"百度直达",
+	"background_page":"background.html",
+	"permissions":["http://*/*","contextMenus","tabs"],
+	"browser_action":{
+		"default_title":"百度直达",
+		"default_icon":"baidu.png"
+	},
+	"icons": {
+	    "16": "baidu.png"
+	  }
+}
